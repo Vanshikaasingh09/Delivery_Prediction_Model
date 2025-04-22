@@ -7,7 +7,7 @@ Features:
 - Predict arrival time using machine learning
 
 Dataset:
-orders_data.xlsx contains the following columns (example):
+orders_data.xlsx contains the following columns :
 - Order ID
 - Order Date
 - Dispatch Time
@@ -26,6 +26,7 @@ Tech stack:
 - pandas for data handling
 - scikit-learn for modeling
 - Streamlit for visualization
+
 Output:
 https://deliverypredictionmodel-bbqscrbnnzxayg3drq3ogc.streamlit.app/
 
